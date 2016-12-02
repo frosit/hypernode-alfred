@@ -1,0 +1,20 @@
+{
+    "name": "frosit/alfred3-hypernode",
+    "description": "A hypernode documentation workflow for Alfred 3",
+    "homepage": "https://github.com/frosit/hypernode-alfred",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "frosit",
+            "email": "fabioros.it@gmail.com",
+            "homepage": "http://frosit.nl"
+        }
+    ],
+    "require": {
+        "joetannenbaum/alfred-workflow": "^0.1.0",
+        "paquettg/php-html-parser": "1.7.0",
+        "symfony/dom-crawler": "3.1.x-dev",
+        "fabpot/goutte": "^3.1"
+    }
+}
